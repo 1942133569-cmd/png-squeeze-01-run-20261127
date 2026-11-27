@@ -1,0 +1,11 @@
+NOTICE
+
+This entry is original work written for the make.fun bounty
+"Squeeze screenshots into the smallest PNG, 27 November 2026", under the MIT
+License (see LICENSE).
+
+The PNG filter definitions (None, Sub, Up, Average, Paeth) follow the PNG
+specification (W3C). The screening approach — colour-type reduction, palette
+orderings, per-row filter choice weighed by zlib, brute force by row — follows
+the published description of the contest's own scale compressor in the
+competition kit (make.fun, MIT).
